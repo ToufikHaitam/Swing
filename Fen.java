@@ -40,14 +40,7 @@ public class Fen extends JFrame {
 	JComboBox comboBox_5;
 	
 	
-	
-	//NB:
-	// Ce n'est pas la bon methode B1sur 
-	// on peut separer les listeners  selon les roles 
-	// ou faire une classe qui implemente les deux ecoutures a la fois mais ca va compliquer le traitement un peut
-	
-	
-	
+	 
 	
 	
 	// fonction pour tester si une chaine contient un nombre ou nn
